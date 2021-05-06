@@ -1,3 +1,12 @@
+# Building a kanban board
+Components needed:
+- Board
+- Card
+- Card form (create/edit/delete)
+- Column
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
